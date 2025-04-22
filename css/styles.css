@@ -2,6 +2,68 @@
     width: 50px;
 }
 
+#main-title{
+    text-align: center;
+    margin: 15px 0 30px;
+}
+
+#contacts-table{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#contacts-table thead th{
+    color: #FFF;
+    background-color: #007BFF;
+}
+
+.actions{
+    text-align: right;
+    width: 150px;
+}
+
+.col-id{
+    font-weight: bold;
+}
+
+.actions i{
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.check-icon{
+    color: #1E7E34;
+}
+
+.edit-icon{
+    color: #007BFF;
+}
+
+.delete-icon{
+    color: #BD2130;
+}
+
+.delete-btn{
+    background-color: transparent;
+    border: none;
+    padding: 0;
+}
+
+#empty-list-text{
+    text-align: center;
+}
+
+#msg{
+    color: #155724;
+    background-color: #D4EDDA;
+    border: 1px solid #C3E6Cb;
+    padding: 10px;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
 footer{
     width: 100%;
     position: absolute;
