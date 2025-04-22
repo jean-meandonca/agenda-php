@@ -1,7 +1,7 @@
 <?php
     include_once("templates/header.php");
 ?>
-    <h1>Teste agenda</h1>
+    <h1>Agenda</h1>
     <i class="fas fa-eye"></i>
 
 <?php 
