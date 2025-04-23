@@ -109,3 +109,10 @@ footer{
 .form-group{
     margin-bottom: 5px;
 }
+
+
+@media(max-width: 480px){
+   #home-link{
+    display: none;
+   }
+}
